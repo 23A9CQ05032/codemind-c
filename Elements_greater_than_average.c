@@ -21,5 +21,5 @@ int main()
         }
     }
     printf("%d",flag);
-        
+    
 }
